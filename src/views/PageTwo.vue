@@ -5,7 +5,7 @@
 
     <div class="mt-10">
       <p class="text-gray-200 animate-bounce text-2xl px-2 text-center font-bold ">Você Mudou os meus dias.</p>
-      <p class="text-gray-200 text-2xl px-2 mt-5 text-center ">Me fez sorrir quando eu nem percebia.</p>
+      <p class="text-gray-200 text-2xl px-2 mt-5 text-center ">Me faz sentir o homem mais especial desse mundo.</p>
       <p class="text-gray-200 text-2xl px-2 mt-5 text-center ">Esse presente é só uma pequena forma de dizer o quanto você é importante pra mim...</p>
 
 
