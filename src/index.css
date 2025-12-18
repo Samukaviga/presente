@@ -1,0 +1,8 @@
+@import "tailwindcss";
+@import "flowbite/src/themes/default";
+
+body {
+    font-family: "MedievalSharp", cursive;
+    min-height: 100vh;
+    background: linear-gradient(to bottom, #0b127a, #18092f 70%, #0a0609);
+}
