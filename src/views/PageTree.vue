@@ -9,7 +9,9 @@
     <div class="mt-10">
       <p class="text-gray-200 text-2xl px-2 text-center ">Algo que pensei com muito carinho.</p>
       <p class="text-gray-200 text-2xl px-2 mt-10 text-center ">Para que voce pudesse desfrutar dele todos os dias.</p>
-      <p class="text-gray-200 text-2xl px-2 mt-10 text-center ">E que eu pudesse ter uma parte no seu dia, mesmo quando estivesse longe de ti.</p>
+      <p class="text-gray-200 text-2xl px-2 mt-10 text-center ">Pensado para te acompanhar todos os dias.</p>
+      <p class="text-gray-200 text-2xl px-2 mt-10 text-center ">Para que, mesmo quando eu estiver longe, você nunca deixe de sentir
+  o quanto faz parte da minha vida..</p>
 
 
 
